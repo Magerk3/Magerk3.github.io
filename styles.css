@@ -20,7 +20,7 @@ h2 {
   color: #1b404b;
   font-size: 20px;
   margin: 10px auto;
-  border-radius: 15px;
+  border-radius: 30px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   
@@ -92,7 +92,7 @@ h2 {
   color: #1b404b;
   font-size: 20px;
   margin: 10px auto;
-  border-radius: 15px;
+  border-radius: 30px;
   display: grid;
   grid-template-columns: 1fr 1fr;
  
@@ -134,7 +134,7 @@ h2 {
 
 .f-panel {
   border: 10px solid #367084;
-  border-radius: 15px;
+  border-radius: 30px;
   background-color: #fffffc;
   padding: 10px;
   color: #fffffc;
