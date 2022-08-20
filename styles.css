@@ -5,6 +5,7 @@ html {
 }
 h1 {
   text-align: center;
+  font-weight: bold;
 }
 h2 {
   color: #1b404b;
@@ -13,7 +14,7 @@ h2 {
   text-transform: lowercase;
 }
 .c-panel {
-  border: 10px solid #3b4449;
+  border: 10px solid #1b404b;
   background-color: #e6f3bd;
   padding: 10px;
   color: #1b404b;
@@ -22,6 +23,7 @@ h2 {
   border-radius: 15px;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  
 }
 .c-panel p {
   text-align: center;
@@ -84,7 +86,7 @@ h2 {
 }
 
 .grid {
-    border: 10px solid #3b4449;
+    border: 10px solid #757780;
   background-color: #fffffc;
   padding: 10px;
   color: #1b404b;
@@ -131,7 +133,7 @@ h2 {
 }
 
 .f-panel {
-  border: 10px solid #001011;
+  border: 10px solid #367084;
   border-radius: 15px;
   background-color: #fffffc;
   padding: 10px;
