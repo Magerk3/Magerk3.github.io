@@ -47,11 +47,15 @@ html {
     
 }
 .text { 
-    margin: 50px auto;
+    text-align: center;
+    margin: 60px 30px;
+    
 }
 .grid {
     border: 5px solid #CCE77E; 
     text-align: center;
+    padding: 10px;
+    
 }
 #baby-blue {
     color: #001011;
@@ -84,6 +88,7 @@ html {
     background-color:#98ce00;
     border: 5px solid #757780;
     font-family: 'Source Code Pro', monospace;
+    
 }
 
 #teal-blue {
@@ -109,8 +114,8 @@ html {
 #pale-spring-bud {
     font-family: 'Lato', sans-serif;
     background-color: #e6f3bd;
-    border: 5px solid #98ce00;
-    color: #98ce00;
+    border: 5px solid #757780;
+    color: #757780;
 }
 #yellow-green-crayola {
     font-family: 'Josefin Sans', sans-serif;
@@ -152,11 +157,17 @@ html {
     font-family: 'Source Code Pro', monospace;
     color:#1B404B;
 }
-#dots {
-    position: relative;
+#void {
+    
     font-size: 80px;
-    color: #FFFFFC;
-    bottom: 55px;
+    
+    border: 5px solid #98ce00;
+}
+#dots {
+    
+    transform: translateY(-50%);
+    color: #6ccff6;
+    
 }
 .name {
     text-transform: uppercase;
