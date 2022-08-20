@@ -1,6 +1,18 @@
 html {
-  background-color: #cce77e;
+  
   font-family: "Source Code Pro", monospace;
+
+}
+body {
+    background-color: #367084;
+    
+}
+#main {
+    border: 10px solid #98ce00;
+    border-radius: 45px;
+    padding: 30px;
+    background-color: #cce77e;
+    
 }
 h1 {
   text-align: center;
@@ -147,23 +159,23 @@ h1 {
 #lato {
   font-family: "Lato", sans-serif;
 
-  color: #367084;
+  color: #757780;
 }
 #pacifico {
   font-family: "Pacifico", cursive;
-  color: #3b4449;
+  color: #001011;
 }
 #ubuntu {
   font-family: "Ubuntu", sans-serif;
-  color: #98ce00;
+  color: #6ccff6;
 }
 #josefine-sans {
   font-family: "Josefin Sans", sans-serif;
-  color: #001011;
+  color: #1b404b;
 }
 #sourse-code-pro {
   font-family: "Source Code Pro", monospace;
-  color: #1b404b;
+  color: #98ce00;
 }
 #void {
   font-size: 80px;
