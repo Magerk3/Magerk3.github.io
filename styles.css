@@ -1,0 +1,100 @@
+html {
+    background-color: #CCE77E;
+    color: #367084;
+    font-family: 'Source Code Pro', monospace;
+
+    
+}
+ h1{
+    margin: 5px auto;
+ }
+.c-panel  {
+    border: 5px solid #3B4449;
+    background-color: #E6F3BD;
+    padding: 10px;
+    color: #1B404B;
+    font-size: 20px;
+    margin: 5px auto;
+}
+.c-panel p {
+    text-align: center;
+    position: relative;
+    
+}
+.color {
+    margin: 5px auto;
+    display: block;
+    padding: 10px;
+    width: 90%;
+    height: 200px;
+    font-size: 40px;
+    line-height: 37px;
+}
+#baby-blue {
+    color: #001011;
+    background-color: #6ccff6;
+    border: 5px solid #fffffc;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#rich-black {
+    color: #757780;
+    background-color: #001011;
+    border: 5px solid #98ce00;
+    font-family: 'Ubuntu', sans-serif;
+}
+#sonik-silver {
+    color: #98ce00;
+    background-color: #757780;
+    border: 5px solid #6ccff6;
+    font-family: 'Pacifico', cursive;
+    
+}
+#baby-powder {
+    color: #6ccff6;
+    background-color: #fffffc;
+    border: 5px solid #001011;
+    font-family: 'Lato', sans-serif;
+}
+#yellow-green {
+    color: #fffffc;
+    background-color:#98ce00;
+    border: 5px solid #757780;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.f-panel {
+    border: 5px solid #001011;
+    background-color:#FFFFFC;
+    padding: 10px;
+    color: #FFFFFC;
+    font-size: 20px;
+    margin: 5px auto;
+}
+.f-panel p {
+    text-align: center;
+    position: relative;
+}
+#lato {
+    font-family: 'Lato', sans-serif;
+    color:#367084;
+    
+}
+#pacifico {
+    font-family: 'Pacifico', cursive;
+    color:#3B4449;
+}
+#ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+    color:#98ce00;
+}
+#josefine-sans {
+    font-family: 'Josefin Sans', sans-serif;
+    color: #001011;
+}
+#sourse-code-pro {
+    font-family: 'Source Code Pro', monospace;
+    color:#1B404B;
+}
+.name {
+    text-transform: uppercase;
+}
