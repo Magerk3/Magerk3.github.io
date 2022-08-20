@@ -1,20 +1,18 @@
 html {
   background-color: #cce77e;
-  color: #367084;
   font-family: "Source Code Pro", monospace;
 }
 h1 {
   text-align: center;
   font-weight: bold;
+  color: #001011;
 }
-h2 {
-  color: #1b404b;
-}
+
 .hex {
   text-transform: lowercase;
 }
 .c-panel {
-  border: 10px solid #1b404b;
+  border: 10px solid #fffffc;
   background-color: #e6f3bd;
   padding: 10px;
   color: #1b404b;
@@ -28,6 +26,7 @@ h2 {
 .c-panel p {
   text-align: center;
   position: relative;
+  
 }
 .color {
     font-size: 20px;
@@ -86,7 +85,7 @@ h2 {
 }
 
 .grid {
-    border: 10px solid #757780;
+    border: 10px solid #6ccff6;
   background-color: #fffffc;
   padding: 10px;
   color: #1b404b;
@@ -133,7 +132,7 @@ h2 {
 }
 
 .f-panel {
-  border: 10px solid #367084;
+  border: 10px solid #e6f3bd;
   border-radius: 30px;
   background-color: #fffffc;
   padding: 10px;
@@ -169,6 +168,10 @@ h2 {
 #void {
   font-size: 80px;
 }
+#dots3 {
+    transform: translateY(-50%);
+    color: #e6f3bd;
+  }
 #dots2 {
   transform: translateY(-50%);
   color: #6ccff6;
@@ -186,4 +189,13 @@ h2 {
 }
 .name {
   text-transform: uppercase;
+}
+#some-colors {
+    color: #1b404b;
+}
+#add-colors {
+    color:#757780;
+}
+#some-fonts {
+    color: #367084;
 }
