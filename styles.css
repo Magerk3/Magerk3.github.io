@@ -2,6 +2,7 @@ html {
     background-color: #CCE77E;
     color: #367084;
     font-family: 'Source Code Pro', monospace;
+    
 
     
 }
@@ -22,6 +23,7 @@ html {
     color: #1B404B;
     font-size: 20px;
     margin: 10px auto;
+    border-radius: 15px;
 }
 .c-panel p {
     text-align: center;
@@ -36,6 +38,7 @@ html {
     height: 200px;
     font-size: 40px;
     line-height: 37px;
+    border-radius: 15px;
 }
 .ad-color {
     margin: 10px auto;
@@ -44,6 +47,7 @@ html {
     height: 200px;
     vertical-align: middle;
     font-size: 20px;
+    border-radius: 15px;
     
 }
 .text { 
@@ -52,15 +56,18 @@ html {
     
 }
 .grid {
-    border: 5px solid #CCE77E; 
+    
     text-align: center;
     padding: 10px;
+    border-radius: 15px;
+    
     
 }
 #baby-blue {
     color: #001011;
     background-color: #6ccff6;
     border: 5px solid #fffffc;
+    
     font-family: 'Josefin Sans', sans-serif;
     
 }
@@ -68,12 +75,14 @@ html {
     color: #757780;
     background-color: #001011;
     border: 5px solid #98ce00;
+    
     font-family: 'Ubuntu', sans-serif;
 }
 #sonik-silver {
     color: #98ce00;
     background-color: #757780;
     border: 5px solid #6ccff6;
+    
     font-family: 'Pacifico', cursive;
     
 }
@@ -81,6 +90,7 @@ html {
     color: #6ccff6;
     background-color: #fffffc;
     border: 5px solid #001011;
+    
     font-family: 'Lato', sans-serif;
 }
 #yellow-green {
@@ -100,7 +110,7 @@ html {
 #midnight-green-eagle {
     font-family: 'Source Code Pro', monospace;
     background-color: #1b404b;
-    border: 5px solid #757780;
+    border: 5px solid #6ccff6;
     color:#757780;
     
     bottom: 6px;
@@ -115,22 +125,25 @@ html {
     font-family: 'Lato', sans-serif;
     background-color: #e6f3bd;
     border: 5px solid #757780;
-    color: #757780;
+    color: #6ccff6;
 }
 #yellow-green-crayola {
     font-family: 'Josefin Sans', sans-serif;
     background-color: #CCE77E;
-    border: 5px solid #fffffc;
+    border: 5px solid #98ce00;
+    
     color:#fffffc;
 }
 
 .f-panel {
     border: 10px solid #001011;
+    border-radius: 15px;
     background-color:#FFFFFC;
     padding: 10px;
     color: #FFFFFC;
     font-size: 20px;
     margin: 10px auto;
+    
 }
 .f-panel p {
     text-align: center;
@@ -138,24 +151,31 @@ html {
 }
 #lato {
     font-family: 'Lato', sans-serif;
+    
     color:#367084;
+    
     
 }
 #pacifico {
     font-family: 'Pacifico', cursive;
     color:#3B4449;
+    
 }
 #ubuntu {
     font-family: 'Ubuntu', sans-serif;
     color:#98ce00;
+    
 }
 #josefine-sans {
     font-family: 'Josefin Sans', sans-serif;
     color: #001011;
+    
 }
 #sourse-code-pro {
     font-family: 'Source Code Pro', monospace;
     color:#1B404B;
+    
+    
 }
 #void {
     
@@ -169,6 +189,13 @@ html {
     color: #6ccff6;
     
 }
+.font {
+    border: 7px dotted;
+    border-top: transparent;
+    border-bottom: transparent;
+    padding-left: 30px;
+    padding-right: 30px;
+}    
 .name {
     text-transform: uppercase;
 }
