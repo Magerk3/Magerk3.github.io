@@ -5,20 +5,23 @@ html {
 
     
 }
- 
+ h1 {
+    text-align: center;
+ }
  h2 {
     color: #1B404B;
  }
  .hex {
     text-transform:lowercase;
+    
  }
 .c-panel  {
-    border: 5px solid #3B4449;
+    border: 10px solid #3B4449;
     background-color: #E6F3BD;
     padding: 10px;
     color: #1B404B;
     font-size: 20px;
-    margin: 5px auto;
+    margin: 10px auto;
 }
 .c-panel p {
     text-align: center;
@@ -26,7 +29,7 @@ html {
     
 }
 .color {
-    margin: 5px auto;
+    margin: 10px auto;
     display: block;
     padding: 10px;
     width: 90%;
@@ -34,11 +37,29 @@ html {
     font-size: 40px;
     line-height: 37px;
 }
+.ad-color {
+    margin: 10px auto;
+    display:inline-block;
+    width: 45%;
+    height: 200px;
+    vertical-align: middle;
+    font-size: 20px;
+    
+}
+.text { 
+    margin: 50px auto;
+}
+.grid {
+    border: 5px solid #CCE77E; 
+    text-align: center;
+}
+
 #baby-blue {
     color: #001011;
     background-color: #6ccff6;
     border: 5px solid #fffffc;
     font-family: 'Josefin Sans', sans-serif;
+    
 }
 #rich-black {
     color: #757780;
@@ -77,6 +98,8 @@ html {
     background-color: #1b404b;
     border: 5px solid #757780;
     color:#757780;
+    
+    bottom: 6px;
 }
 #charcoal {
     font-family: 'Ubuntu', sans-serif;
@@ -98,12 +121,12 @@ html {
 }
 
 .f-panel {
-    border: 5px solid #001011;
+    border: 10px solid #001011;
     background-color:#FFFFFC;
     padding: 10px;
     color: #FFFFFC;
     font-size: 20px;
-    margin: 5px auto;
+    margin: 10px auto;
 }
 .f-panel p {
     text-align: center;
@@ -130,7 +153,14 @@ html {
     font-family: 'Source Code Pro', monospace;
     color:#1B404B;
 }
+#dots {
+    position: relative;
+    font-size: 80px;
+    color: #FFFFFC;
+    bottom: 55px;
+}
 
 .name {
     text-transform: uppercase;
 }
+
