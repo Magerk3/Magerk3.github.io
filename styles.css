@@ -8,6 +8,9 @@ html {
  h1{
     margin: 5px auto;
  }
+ h2 {
+    color: #1B404B;
+ }
 .c-panel  {
     border: 5px solid #3B4449;
     background-color: #E6F3BD;
